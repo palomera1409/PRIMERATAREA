@@ -35,7 +35,7 @@ public void  cambiar (View v)
 
         }
 
-        respuesta.setText(cadenai);
+        texto.setText(cadenai.toUpperCase());
 
 
 
